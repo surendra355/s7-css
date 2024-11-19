@@ -1,0 +1,29 @@
+#kingfisher{width:280px;
+    opacity: 0.7;
+    
+}
+#macaw{width:300px;
+    
+}
+#finch{width:200px;
+}
+#kingfisherDesc{
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+    opacity: 0.9;
+}
+#macawDesc{
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify
+
+}
+#MacawHeading{
+    text-align: right;
+    width: 1200px;
+}
